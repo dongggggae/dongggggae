@@ -3,7 +3,7 @@
 <p>🇰🇷 I live in Korea(seoul).</p>
 <p>🍗 I like chicken.</p>
 
-<h2>My tech stack 📖</h2>
+<h2>📖 My tech stack 📖</h2>
 <br>
 
 
