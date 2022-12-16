@@ -1,7 +1,7 @@
 <h1>👋🏻 My Name is Donghyun Kim 👋🏻</h1>
 
 <p>🇰🇷 I live in Korea(seoul).</p>
-<p>🍗 I like chicken.</p>
+
 
 <h2>📖 My tech stack 📖</h2>
 <br>
