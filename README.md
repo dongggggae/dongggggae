@@ -1,1 +1,1 @@
-<h1>👋🏻 My Name is Donghyun Kim 👋🏻</h1>
+<h1>👋 My Name is Donghyun Kim 👋</h1>
